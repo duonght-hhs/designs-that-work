@@ -1,1 +1,1 @@
-I use this to store my publication and good references
+I use this to store my publications and good references
