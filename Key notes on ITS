@@ -1,3 +1,8 @@
 Bernal et al (2017):
 - ITS works best with short term outcomes that are expected to change either relatively quickly after an intervention is implemented or after a clearly defined lag.
 - Given the requirement for a relatively long time series, routine data are often most appropriate in ITS studies.
+Use of controls and other more complex ITS designs:
+Where time-varying confounders are either unmeasured or unknown, a range of design adaptations can be used to control for possible concurrent events including: (1) adding a
+control group or control outcome which would not have been affected by the intervention (known as a controlled interrupted time series); (2) using a multiple baseline design
+whereby the intervention is introduced in different locations at different times; or (3) adding additional phases so that the intervention is first introduced and then withdrawn to
+establish whether withdrawal of the intervention leads to a reversal of the effect.
